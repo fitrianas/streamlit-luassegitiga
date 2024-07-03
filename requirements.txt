@@ -2,3 +2,4 @@ numpy==1.24.3
 pandas==1.4.4
 streamlit
 pip==24.0
+uv==0.2.21
